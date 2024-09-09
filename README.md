@@ -14,7 +14,9 @@
 - **Optional:** Include a Quicksort algorithm in your `QuadSorts` class.
 - Your submission should be pushed to GitHub classroom. It should include `QuadSorts`, `QuadSorts.html` and answers to the following questions.
   - Create a graph of how long each method takes for each of 5 given values of `N`.
-  - Make a prediction for the numerical runtime of the sorting method by comparing it to common functions like `n`, `n^2`, `n!`, `log(n)` etc. 
+  - Make a prediction for the numerical runtime of the sorting method by comparing it to common functions like `n`, `n^2`, `n!`, `log(n)` etc.
+  - What is the differnce between **recursive** and **iterative** design? Why would we use one over the other?
+  - What two things do a recursive method contain?
 - Please review the Javadoc Reference documentation and Data Structures Style Guide.
 
 ## Rubric
