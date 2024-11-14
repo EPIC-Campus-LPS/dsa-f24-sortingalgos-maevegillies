@@ -1,0 +1,31 @@
+        while (input.length() > 0) {
+//            //check
+//
+//            if (input.substring(0, 1).equals("+") ) {
+//                stack.push("+");
+//            }
+//            else if (input.substring(0, 1).equals("-")) {
+//                //push -
+//            }
+//            else if (input.substring(0, 1).equals("*")) {
+//                  //push *
+//            }
+//            else if (input.substring(0, 1).equals("/")) {
+//                //push
+//            }
+
+
+
+    //pop x - pop y...
+    //x = pop x
+    //pop y - pop x
+            //reads left to right
+            //reads the first two numbers, then the operator
+            //performs the operation and returns it back to the stack
+        //while loop
+        //converts numbers in string to int, pushes numbers to stack, then converts string operators to operators & does the math
+        //reads the next two numbers
+        //if there is a number then an operator, add number to stack and then perform the operation on the two operands
+        //continues to do that until there are no elements
+        //returns input
+
