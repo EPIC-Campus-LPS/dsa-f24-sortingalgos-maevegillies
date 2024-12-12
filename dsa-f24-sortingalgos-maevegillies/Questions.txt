@@ -1,5 +1,10 @@
 Create a graph of how long each method takes for each of 5 given values of N.
+- Tester didn't work
+
 Make a prediction for the numerical runtime of the sorting method by comparing it to common functions like n, n^2, n!, log(n) etc.
+- Bubblesort avg - O(n^2)
+- Selectionsort avg - O(n^2)
+- Mergesort avg - O(n^2)
 
 
 
