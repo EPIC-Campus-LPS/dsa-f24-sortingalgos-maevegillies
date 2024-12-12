@@ -1,0 +1,14 @@
+Create a graph of how long each method takes for each of 5 given values of N.
+Make a prediction for the numerical runtime of the sorting method by comparing it to common functions like n, n^2, n!, log(n) etc.
+
+
+
+What is the differnce between recursive and iterative design? Why would we use one over the other?
+- Recursion involves breaking down a problem into smaller versions of that problem until it reaches the base case. Like in fibonnaci, how the function calls itself (and esentially creates tinier versons of the bigger problem until it no longer has that problem) to get the next number. 
+  - It can be better when needing to traverse through a structure. In this case, it would have been better to use recursion in these algorithms compared to iteration.
+
+- Iteration involves repeating a set of steps until a condition is met.
+  - It can be better when efficency is top priority. Here, iteration caused the runtime to be longer than if recursion was used because these algorithms are meant to be recursive.
+
+What two things do a recursive method contain?
+- A base case and a recursive case. 
